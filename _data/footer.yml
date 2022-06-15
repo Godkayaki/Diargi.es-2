@@ -5,16 +5,13 @@
 
 main:
   social:
-    - title: "Dribbble"
-      icon: "social-dribbble"
-      url: "https://dribbble.com/"
     - title: "Twitter"
       icon: "social-twitter"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/GodKayaki"
     - title: "GitHub"
       icon: "social-github"
-      url: "https://github.com/"
+      url: "https://github.com/Godkayaki"
     - title: "Instagram"
       icon: "social-instagram-outline"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/dani_default/"
   copy: "© 2020 Glitche. All rights reserved."
