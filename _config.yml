@@ -23,7 +23,7 @@ title: "Glitche - Resume / CV Jekyll Theme"
 email: "daniplc,@example.com"
 description: "Jekyll Resume / CV / vCard / Portfolio template"
 author: "Admin"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Diargi.es-2" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
