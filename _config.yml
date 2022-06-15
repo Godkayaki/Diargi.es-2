@@ -20,11 +20,11 @@
 
 # basic settings
 title: "Drg"
-email: "daniplc.@example.com"
+email: "daniplcm.@gmail.com"
 description: "Drg - Portfolio"
 author: "Drg"
 baseurl: "/Diargi.es-2" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://diargi.es" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
