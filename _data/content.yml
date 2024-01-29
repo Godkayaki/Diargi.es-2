@@ -14,10 +14,10 @@ about:
         "
   list:
     - label: "Name"
-      value: "Daniel / Drg"
+      value: "Daniel"
 
     - label: "Age"
-      value: "22 Years"
+      value: "12/04/2000"
 
     - label: "Job"
       value: "DevOps Developer"
