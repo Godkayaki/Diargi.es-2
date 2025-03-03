@@ -9,7 +9,7 @@ about:
   image: "assets/img/man1.jpg"
   text: "
         <p>
-          <strong>Hello! I’m Daniel Gonzalez,</strong><br> Application Developer and Network adminitrator.
+          <strong>Hello! I’m Daniel Gonzalez,</strong><br> Cloud Architect / DevOps Engineer
         </p>
         "
   list:
@@ -20,7 +20,7 @@ about:
       value: "12/04/2000"
 
     - label: "Job"
-      value: "DevOps Developer"
+      value: "Cloud Architect at Alten"
 
     - label: "Citizenship"
       value: "Spain"
@@ -33,20 +33,24 @@ about:
 
   download:
     text: "Download CV"
-    link: "https://drive.google.com/file/d/1EUqjxJMtcqkzEh916rSflKnB7A5t5FPj/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1moC2b4k3J1Hv-HOt7BDSrEJ1LsBFkCeG/view?usp=sharing"
 
 ### Resume [ resume ]
 resume:
   experience:
     title: "Experience"
     items:
-      - year: "Jan 2022 - Present"
-        name: "Technical Solutions Representative - Webhelp"
-        text: "Problem resolutions on the Google Cloud Platform team."
+      - year: "Jul 2022 - PRESENT"
+        name: "Cloud Architect - Alten (Telefonica Cloud Tech)"
+        text: "Researching and troubleshooting complex technical issues. Providing expert-level support to troubleshoot and resolve complex technical issues encountered by clients."
+    
+      - year: "Jan 2022 - Jun 2024"
+        name: "Subject Matter Expert / Technical Solutions Representative - Webhelp (Google)"
+        text: "Researching and troubleshooting complex technical issues. Providing expert-level support to troubleshoot and resolve complex technical issues encountered by clients."
 
       - year: "Nov 2020 - Jan 2022"
         name: "Software Application Developer - Nebari"
-        text: "App development mainly using Python."
+        text: "App development, mainly using Python. Database manipulation."
 
       - year: "Jul 2019 - Aug 2019"
         name: "Summer School Teacher - Camp Tecnologico"
@@ -61,13 +65,13 @@ resume:
     items:
       - year: "2018 - 2021"
         name: "Higher Technician in Multi-platform Applications Development"
-        text: ""
+        ### text: ""
 
       - year: "2018 - 2021"
         name: "Higher Technician in Computer Network Systems Management"
-        text: ""
+        ### text: ""
 
       - year: "2016 - 2018"
         name: "Medium grade in Microcomputer systems and networks"
-        text: ""
+        ### text: ""
 

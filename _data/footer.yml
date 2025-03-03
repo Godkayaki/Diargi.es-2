@@ -5,9 +5,9 @@
 
 main:
   social:
-    - title: "Twitter"
-      icon: "social-twitter"
-      url: "https://twitter.com/GodKayaki"
+    ###- title: "Twitter"
+    ###  icon: "social-twitter"
+    ###  url: "https://twitter.com/GodKayaki"
     - title: "GitHub"
       icon: "social-github"
       url: "https://github.com/Godkayaki"
